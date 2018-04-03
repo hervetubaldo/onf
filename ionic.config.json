@@ -1,0 +1,8 @@
+{
+  "name": "ONF",
+  "app_id": "ae77536e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
